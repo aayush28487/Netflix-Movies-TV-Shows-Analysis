@@ -10,6 +10,10 @@ The project focuses on **data cleaning, data exploration, visualization, and ext
 
 ---
 
+## 📓 Google Colab
+
+[Open Project in Google Colab](https://colab.research.google.com/drive/1PAf28yXR0QyS-sUW7ItEj1x1-Cm5zAvh?usp=sharing)
+
 ## 🎯 Objectives
 
 * Understand and explore the Netflix dataset
