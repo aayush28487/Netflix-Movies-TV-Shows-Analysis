@@ -147,14 +147,25 @@ The project also performs a focused analysis of Netflix titles associated with I
 
 The project uses **Matplotlib and Seaborn** to create visualizations such as:
 
-* Movies vs TV Shows
-* Titles by Release Year
-* Content Added by Year
-* Top Countries
-* Top Genres
-* Content Ratings
-* Movie Duration Distribution
-* Correlation Heatmap
+### 🎬 Movies vs TV Shows
+
+![Movies vs TV Shows](images/movies_vs_tv_shows.png)
+
+### 📅 Titles by Release Year
+
+![Titles by Release Year](images/release_year.png)
+
+### 📈 Content Added to Netflix by Year
+
+![Content Added by Year](images/content_added_year.png)
+
+### 🌍 Top Countries
+
+![Top Countries](images/top_countries.png)
+
+### 🎭 Top Genres
+
+![Top Genres](images/top_genres.png)
 
 ---
 
